@@ -1,4 +1,3 @@
-
 # Full Stack Chat App
 
 HeyChat is a Full Stack Chatting App.
